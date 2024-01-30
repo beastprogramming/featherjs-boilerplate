@@ -1,4 +1,4 @@
-# noobbot-api
+# FeatherJs Boilerplate
 
 > 
 
@@ -12,7 +12,7 @@ This project uses [Feathers](http://feathersjs.com). An open source framework fo
 2. Install your dependencies
 
     ```
-    cd path/to/noobbot-api
+    cd path/to/featherjs-boilerplate 
     npm install
     ```
 
